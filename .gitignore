@@ -11,6 +11,10 @@ target/
 *.iws
 *.iml
 *.ipr
+*.xml
+*.gif
+*.png
+src/main/java/org/personal/com/ui
 
 ### Eclipse ###
 .apt_generated

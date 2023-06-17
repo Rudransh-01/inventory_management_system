@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b6a9f17-b9bc-47dd-98e9-7e85e8d3ea93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/personal/com/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/personal/com/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/personal/com/dto/CategoryDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/personal/com/dto/ProductDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/personal/com/dto/SupplierDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/personal/com/dto/UserDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/personal/com/services/DatabaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/personal/com/ui/Customer.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/personal/com/ui/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/personal/com/ui/User.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/personal/com/ui/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
